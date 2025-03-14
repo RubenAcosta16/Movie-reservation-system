@@ -1,0 +1,1 @@
+validacion al agarrar un asiento que no se ha creado aun en una reservacion, que no se pase de la capacidad
